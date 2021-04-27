@@ -119,6 +119,11 @@ def make_plot(field_name):
   
   # Specify color bar layout.
   p.add_layout(color_bar, 'right')
+  
+  from bokeh.tile_providers import STAMEN_TERRAIN_RETINA, get_provider
+
+  tile_provider = get_provider(STAMEN_TERRAIN_RETINA)
+  p.add_tile(tile_provider)
 
   # Add the hover tool to the graph
   p.add_tools(hover)
