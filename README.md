@@ -5,6 +5,4 @@ Further, how tipping behaviour does have any relation to neighborhoods, time or 
 
 Plan to investigate this: 
 
-\begin{itemize}
-\item Hej
-\end{itemize}
+* Hej
