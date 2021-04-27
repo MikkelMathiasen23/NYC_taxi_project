@@ -24,7 +24,6 @@ from bokeh.tile_providers import STAMEN_TERRAIN_RETINA, get_provider
 # Load data
 
 geo = gpd.read_file('preprocessed_data/geo.geojson')
-#geo = geo.to_crs({'init': 'epsg:4326'})
 geo = geo.to_crs(epsg=3857)
 
 #---------------------------------------------------------------------------------
@@ -123,7 +122,6 @@ def make_plot(field_name):
   # Specify color bar layout.
   p.add_layout(color_bar, 'right')
   
-
 
   tile_provider = get_provider(STAMEN_TERRAIN_RETINA)
   p.add_tile(tile_provider)
