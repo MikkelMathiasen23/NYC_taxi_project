@@ -19,10 +19,12 @@ from bokeh.palettes import brewer
 from bokeh.layouts import widgetbox, row, column
 from bokeh.application import Application
 from bokeh.application.handlers import FunctionHandler
+from bokeh.tile_providers import STAMEN_TERRAIN_RETINA, get_provider
 
 # Load data
 
 geo = gpd.read_file('preprocessed_data/geo_zone.geojson')
+geo = geo.to_crs(epsg=3857)
 
 #---------------------------------------------------------------------------------
 # Format table for legend & interactivity
@@ -119,6 +121,9 @@ def make_plot(field_name):
   
   # Specify color bar layout.
   p.add_layout(color_bar, 'right')
+  
+  tile_provider = get_provider(STAMEN_TERRAIN_RETINA)
+  p.add_tile(tile_provider)
 
   # Add the hover tool to the graph
   p.add_tools(hover)
