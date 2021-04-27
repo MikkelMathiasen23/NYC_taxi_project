@@ -166,14 +166,7 @@ select.on_change('value', update_plot)
 layout = column(p, widgetbox(select), widgetbox(slider))
 curdoc().add_root(layout)
 
-# Use the following code to test in a notebook
-# Interactive features will no show in notebook
 
-#output_notebook()
-#show(p)
-
-output_file('plot.html', mode='inline')
-save(p)
 
 
 
