@@ -24,7 +24,9 @@ from bokeh.tile_providers import STAMEN_TERRAIN_RETINA, get_provider
 # Load data
 
 geo = gpd.read_file('preprocessed_data/geo.geojson')
-geo = geo.to_crs({'init': 'epsg:4326'})
+#geo = geo.to_crs({'init': 'epsg:4326'})
+geo = geo.to_crs(epsg=3857)
+
 #---------------------------------------------------------------------------------
 # Format table for legend & interactivity
 
