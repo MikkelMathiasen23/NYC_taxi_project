@@ -5,4 +5,6 @@ Further, how tipping behaviour does have any relation to neighborhoods, time or 
 
 Plan to investigate this: 
 
-* Hej
+* Initial data exploration: 
+*  * Taxi behavior as function of day of week, month, hour of the day, hour of the week
+*  
