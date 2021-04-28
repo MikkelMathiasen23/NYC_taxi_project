@@ -30,11 +30,11 @@ geo = geo.to_crs(epsg=3857)
 # Format table for legend & interactivity
 
 #  This dictionary contains the formatting for the data in the plots
-format_data = [('tip_p', np.min(geo.tip_p), np.max(geo.tip_p),'0%', 'Tip percentage'),
-               ('tip_amount', 0, 25,'$0,0', 'Average Tip amount'),
-               ('fare_amount', 0, 50, '$0,0', 'Average fare amount'),
-               ('pickup', 0, np.max(geo.pickup),'0,0', 'Amount of pickups'),
-               ('dropoff', 0, np.max(geo.dropoff),'0,0', 'Amount of dropoffs'),
+format_data = [('tip_p', np.quantile(geo.tip_p, 0.05), np.quantile(geo.tip_p, 0.95),'0%', 'Tip percentage'),
+               ('tip_amount', 0, np.quantile(geo.tip_amount, 0.95),'$0,0', 'Average Tip amount'),
+               ('fare_amount', 0, np.quantile(geo.fare_amount, 0.95), '$0,0', 'Average fare amount'),
+               ('pickup', 0, np.quantile(geo.pickup, 0.95),'0,0', 'Amount of pickups'),
+               ('dropoff', 0, np.quantile(geo.dropoff,0.95),'0,0', 'Amount of dropoffs'),
               ]
       
  
