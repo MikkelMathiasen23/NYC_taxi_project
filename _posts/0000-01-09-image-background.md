@@ -1,6 +1,6 @@
 # Image Backgrounds
 
-<backgroundimage>https://farm4.staticflickr.com/3743/11167478016_1714b57b28_b.jpg</backgroundimage>
+<backgroundimage>https://www.wallpapertip.com/wmimgs/4-46011_new-york-wallpaper-background-new-york-taxi-night.jpg</backgroundimage>
 <backgroundimageopacity>0.25</backgroundimageopacity>
 
 You can also set image backgrounds.
