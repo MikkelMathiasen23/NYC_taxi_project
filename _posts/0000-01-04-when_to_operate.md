@@ -32,7 +32,7 @@ Well, it looks like a tradeoff between number of customers and tip amount are ne
 
 <iframe src="images/daily_mean_fare_amount.html"
           sandbox="allow-same-origin allow-scripts"
-          width="1500"
+          width="2000"
           height="500"
           scrolling="no"
           seamless="seamless"
@@ -46,8 +46,13 @@ Well, it looks like a tradeoff between number of customers and tip amount are ne
 
 ## *"Do you prefer short trips?"*
 
-
-Trips distance pr hour 
+<iframe src="images/daily_mean_trip_distance.html"
+          sandbox="allow-same-origin allow-scripts"
+          width="2000"
+          height="500"
+          scrolling="no"
+          seamless="seamless"
+          frameborder="0"></iframe>
 
 If you answered no to this question then you should definitely operate around 4-5 PM but instead XXXX otherwise we would recommend operating in the timeframe spanning from 6AM until 8AM. 
 
