@@ -21,12 +21,21 @@
 
 --
 
+
 ## *"When should you operate to achieve the highest fareamount pr. trip duration?"*
 
 HVORNÅR ER FAREAMOUNT/duration HØJEST (MEAN MILE PRICE PR HOUR)
 
 
+g
+g
+g
+g
+g
+
+
 -- 
+
 
 ## *"Do you prefer short trips?"*
 
