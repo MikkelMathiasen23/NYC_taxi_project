@@ -1,7 +1,7 @@
-## Where to operate 
+# Where to operate 
 
  
- *"Where should I go to be guaranteed customers within a short timeframe?"*
+ ## *"Where should I go to be guaranteed customers within a short timeframe?"*
   <iframe src="images/plot.html"
           sandbox="allow-same-origin allow-scripts"
           width="450"
@@ -27,7 +27,7 @@ But a lot of customers are not enough - they should also give good tips as this 
 --
 
 
-*"Which boroughs in New York City gives the best tips?"*
+## *"Which boroughs in New York City gives the best tips?"*
 
 <iframe src="images/tip_perc_borough.html"
           sandbox="allow-same-origin allow-scripts"
