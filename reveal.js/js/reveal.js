@@ -1267,7 +1267,7 @@
 		eventsAreBound = true;
 
 		window.addEventListener( 'hashchange', onWindowHashChange, false );
-		window.addEventListener( 'resize', onWindowResize, false );
+		window.addEventListener( 'resize', onWindowResize, true );
 
 		if( config.touch ) {
 			if( 'onpointerdown' in window ) {
@@ -1350,7 +1350,7 @@
 		document.removeEventListener( 'keydown', onDocumentKeyDown, false );
 		document.removeEventListener( 'keypress', onDocumentKeyPress, false );
 		window.removeEventListener( 'hashchange', onWindowHashChange, false );
-		window.removeEventListener( 'resize', onWindowResize, false );
+		window.removeEventListener( 'resize', onWindowResize, true );
 
 		dom.wrapper.removeEventListener( 'pointerdown', onPointerDown, false );
 		dom.wrapper.removeEventListener( 'pointermove', onPointerMove, false );
