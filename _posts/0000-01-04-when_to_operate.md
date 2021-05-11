@@ -8,6 +8,15 @@
           scrolling="no"
           seamless="seamless"
           frameborder="0"></iframe>
+          
+          
+<iframe src="images/tip_fraction_houroftheweek.html"
+          sandbox="allow-same-origin allow-scripts"
+          width="450"
+          height="500"
+          scrolling="no"
+          seamless="seamless"
+          frameborder="0"></iframe>
 
 
 HVORNÅR RESULTERER OFTEST I TIPS 
