@@ -44,7 +44,7 @@ THIS SHOULD BE FAREAMOUNT/TRIPDISTANCE !
 
 <iframe src="images/daily_mean_trip_distance.html"
           sandbox="allow-same-origin allow-scripts"
-          width="2500"
+          width="1450"
           height="800"
           scrolling="no"
           seamless="seamless"
@@ -54,7 +54,7 @@ If you answered no to this question then you should definitely operate around 4-
 
 <iframe src="images/daily_mean_fare_amount.html"
           sandbox="allow-same-origin allow-scripts"
-          width="2500"
+          width="1450"
           height="800"
           scrolling="no"
           seamless="seamless"
