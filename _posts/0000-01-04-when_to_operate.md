@@ -30,14 +30,14 @@ Well, it looks like a tradeoff between number of customers and tip amount are ne
 
 ## *"When should you operate to achieve the highest fareamount pr. trip duration?"*
 
-HVORNÅR ER FAREAMOUNT/duration HØJEST (MEAN MILE PRICE PR HOUR)
+<iframe src="images/daily_mean_fare_amount.html"
+          sandbox="allow-same-origin allow-scripts"
+          width="1500"
+          height="500"
+          scrolling="no"
+          seamless="seamless"
+          frameborder="0"></iframe>
 
-
-g
-g
-g
-g
-g
 
 
 --
