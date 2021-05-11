@@ -1,17 +1,14 @@
-With syntax highlighting for your code:
+# Most important factors for earning a tip 
 
-```python
-import pprint
 
-class MyClass(object):
-    def __init__(self):
-        self.a = 1
+The top 7 most important factors for earning a tip are: 
+    '+' Trip speed
+    '+' Trip duration time
+    '+' Trip distance 
+    '+' Dropoff location
+    '+' Pickup location
+    '+' Fare amount
+    '+' Number of passengers 
+    
+INSERT BARPLOT OF FEATURE IMPORTANCE 
 
-    @classmethod
-    def some_classmethod(cls, a):
-        self.a = a
-
-if __name__ == "__main__":
-    # This is a comment
-    pprint.pprint({'Key1': 0x34, 'Key2': 'Hi'})
-```
