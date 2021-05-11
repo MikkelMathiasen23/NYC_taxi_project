@@ -64,3 +64,11 @@ THIS SHOULD BE FAREAMOUNT/TRIPDISTANCE !
 <sub><sup>When comparing the two figures, it is apparent that the early trips at 4-5 AM are long trips resulting in large fareamounts. This could be due to people leaving early for the airport or need to travel far for work. If you want to have small trips not leading you out of the city center then you should probably not operate the early mornings. </sup></sub>
 
 <sub><sup>Having investigated *Where* and *When* to operate we should find out *Who* should we pickup. Clearly, some types of people tend to give better tips than others. Lets dig into that on the next slide.</sup> </sub>
+
+
+-- 
+
+
+## Partial conclusion
+
+
