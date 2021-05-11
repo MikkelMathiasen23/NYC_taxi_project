@@ -3,7 +3,7 @@
 
 <iframe src="images/pickups_dropoffs_houroftheweek.html"
           sandbox="allow-same-origin allow-scripts"
-          width="1500"
+          width="1499"
           height="500"
           scrolling="no"
           seamless="seamless"
@@ -12,7 +12,7 @@
           
 <iframe src="images/tip_fraction_houroftheweek.html"
           sandbox="allow-same-origin allow-scripts"
-          width="1500"
+          width="1499"
           height="500"
           scrolling="no"
           seamless="seamless"
