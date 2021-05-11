@@ -39,8 +39,8 @@
 
 			// The "normal" size of the presentation, aspect ratio will be preserved
 			// when the presentation is scaled to fit different resolutions
-			width: 2000,
-			height: 1000,
+			width: 3000,
+			height: 1500,
 
 			// Factor of the display size that should remain empty around the content
 			margin: 0.04,
