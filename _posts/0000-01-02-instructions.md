@@ -9,6 +9,9 @@ The data used for analysis and visualizations are from the [Taxi & Limousine Com
 
 This website is structured as a slide show which you can navigate through using mouse wheelscroller, keyboard arrows or arrows in the bottom right corner (but you probably already know that as you are on the second page!). 
 
+If you want to get a feeling of the slides then press *Esc* on your keyboard and you will get an overview of all the slides. Further, it should be noted that under each category eg. *Where to operate* you can encounter multiple slides, which you can discover by pressing the arrow pointing down in the bottom right corner, using the keyboard arrow pointing down or lastly just by using the mouse wheelscroller. 
+
 If you want to get to know the details behind the analysis and visualizations then go to the following [github page](https://github.com/MikkelMathiasen23/NYC_taxi_project).
 
+PHEW that was a lot of initial information, lets dig into the exciting stuff! 
 
