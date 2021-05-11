@@ -33,6 +33,7 @@ But a lot of customers are not enough - they should also give good tips as this 
 
 You should definitely not pickup people in Bronx or Staten Island as people there gives the lowest amount of tip, but instead you should go for Manhattan, Brooklyn or Queens as people there tend to give the best tips!
 
+ALSO INSERT SOMETHING WITH WHERE YOU GET TRIPS RESULTING IN LARGE FAREAMOUNT!
 
-
+Now it should be apparent that the best places to look for customers are XXX as this would result in a combination of many customers but also customers that are likely to give good tips. Now we have clarified where to go, but when should you go? Are there a specific timeframe that all the good customers are grapping a taxi? Go to the next slide and we will dig into *when*.
 
