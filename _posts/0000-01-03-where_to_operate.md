@@ -1,7 +1,7 @@
 ## Where to operate 
 
  
-   - *"Where should I go to be guaranteed customers within a short timeframe?"*
+ + *"Where should I go to be guaranteed customers within a short timeframe?"*
   <iframe src="images/plot.html"
           sandbox="allow-same-origin allow-scripts"
           width="450"
