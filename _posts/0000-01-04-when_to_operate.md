@@ -50,3 +50,5 @@ g
 Trips distance pr hour 
 
 If you answered no to this question then you should definitely operate around 4-5 PM but instead XXXX otherwise we would recommend operating in the timeframe spanning from 6AM until 8AM. 
+
+Having investigated *Where* and *When* to operate we should find out *Who* should we pickup. Clearly, some types of people tend to give better tips than others. Lets dig into that on the next slide. 
