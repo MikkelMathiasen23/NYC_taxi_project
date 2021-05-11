@@ -30,13 +30,9 @@ Well, it looks like a tradeoff between number of customers and tip amount are ne
 
 ## *"When should you operate to achieve the highest fareamount pr. trip duration?"*
 
-<iframe src="images/daily_mean_fare_amount.html"
-          sandbox="allow-same-origin allow-scripts"
-          width="2500"
-          height="800"
-          scrolling="no"
-          seamless="seamless"
-          frameborder="0"></iframe>
+
+
+THIS SHOULD BE FAREAMOUNT/TRIPDISTANCE !
 
 
 
@@ -54,6 +50,16 @@ Well, it looks like a tradeoff between number of customers and tip amount are ne
           seamless="seamless"
           frameborder="0"></iframe>
 
-If you answered no to this question then you should definitely operate around 4-5 PM but instead XXXX otherwise we would recommend operating in the timeframe spanning from 6AM until 8AM. 
+If you answered no to this question then you should definitely operate around 4-5 AM but instead XXXX otherwise we would recommend operating in the timeframe spanning from 6AM until 8PM.
+
+<iframe src="images/daily_mean_fare_amount.html"
+          sandbox="allow-same-origin allow-scripts"
+          width="2500"
+          height="800"
+          scrolling="no"
+          seamless="seamless"
+          frameborder="0"></iframe>
+
+When comparing the two figures, it is apparent that the early trips at 4-5 AM are long trips resulting in large fareamounts. This could be due to people leaving early for the airport or need to travel far for work. If you want to have small trips not leading you out of the city center then you should probably not operate the early mornings. 
 
 Having investigated *Where* and *When* to operate we should find out *Who* should we pickup. Clearly, some types of people tend to give better tips than others. Lets dig into that on the next slide. 
