@@ -66,7 +66,11 @@ THIS SHOULD BE FAREAMOUNT/TRIPDISTANCE !
 <sub><sup>Having investigated *Where* and *When* to operate we should find out *Who* should we pickup. Clearly, some types of people tend to give better tips than others. Lets dig into that on the next slide.</sup> </sub>
 
 
+
+
 -- 
+
+
 
 
 ## Partial conclusion
