@@ -31,8 +31,8 @@ But a lot of customers are not enough - they should also give good tips as this 
 
 <iframe src="images/tip_perc_borough.html"
           sandbox="allow-same-origin allow-scripts"
-          width="1500"
-          height="500"
+          width="2500"
+          height="800"
           scrolling="no"
           seamless="seamless"
           frameborder="0"></iframe>
