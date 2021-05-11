@@ -41,3 +41,8 @@ You should definitely not pickup people in Bronx or Staten Island as people ther
 
 Now it should be apparent that the best places to look for customers are XXX as this would result in a combination of many customers but also customers that are likely to give good tips. Now we have clarified where to go, but when should you go? Are there a specific timeframe that all the good customers are grapping a taxi? Go to the next slide and we will dig into *when*.
 
+
+--
+
+
+## Partial conclusion
