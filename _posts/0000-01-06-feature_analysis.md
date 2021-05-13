@@ -1,7 +1,7 @@
 # Most important factors for earning a tip 
 
 
-<sub>The top 7 most important factors for earning a tip are:</sub> 
+<sub>The <u>top 7 most important factors</u> for earning a tip are:</sub> 
 + <sub>Trip speed</sub>
 + <sub>Trip duration time</sub>
 + <sub>Trip distance </sub>
