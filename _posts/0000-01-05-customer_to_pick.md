@@ -1,4 +1,4 @@
-# Which customers to pick
+# Who should I pickup
 
 ## *"Is it better to pickup groups or single persons?"*
 
@@ -11,8 +11,10 @@
         frameborder="0">
         </iframe>
 
+<sub>There does not appear to be any substantial difference in picking up a group or a single passenger. This applies both for the tip amount and the total amount they pay. So feel free to pickup whomever you want!</sub>
 
 --
 
 
 ## Partial conclusion
+Not very much to sum up on here. Just pickup single persons or multiple person as you like as they give the same amount of tip. 
