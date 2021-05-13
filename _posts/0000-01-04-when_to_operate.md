@@ -98,7 +98,9 @@
 ## Partial conclusion
 
 <sub>That was a lot of information on *when to operate* - lets sum up. </sub>
-
+We did find out that when taking the number of available customers and when they tip most into account then the best hours to operate was 10AM - 3PM Monday through Friday. 
+Further, when taking the amount pr. mile and amount pr. hour into account this clearly indicated that Monday and Sunday was good days to operate and Tuesdays was not recommendable. 
+Finally, if you did prefer long trips it was recommended to operate early mornings between 4-5AM, and otherwise from 9AM - 1AM. 
 
 
 
