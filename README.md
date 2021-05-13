@@ -5,10 +5,7 @@ Further, how tipping behaviour does have any relation to neighborhoods, time or 
 
 Explainer notebook 
 
-GeoMaps slide "Where" --> rigtige layout 
-
-Fareamount/Trip duration over time 
-Trip speed + tip amount scatterplot 
+GeoMaps slide "Where" --> rigtige layout  
 
 Which customers 
 
