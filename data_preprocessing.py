@@ -63,21 +63,30 @@ datatype_dict = {'VendorID': float,
                  'congestion_surcharge': float}
 
 parse_dates = ['tpep_pickup_datetime', 'tpep_dropoff_datetime']
-data_path = 'C://Users/nicol/Google Drev/DTU/MMC/Social dataanlyse og visualisering/socialdata2021/project/data/'
+data_path = 'https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2020-'
 
 #data_files = os.listdir(data_path)
 
-data1 = 'yellow_tripdata_2020-01.csv'
-data2 = 'yellow_tripdata_2020-02.csv'
-data3 = 'yellow_tripdata_2020-03.csv'
+data1 = '01.csv'
+data2 = '02.csv'
+data3 = '03.csv'
+data4 = '04.csv'
+data5 = '05.csv'
+data6 = '06.csv'
+data7 = '07.csv'
+data8 = '08.csv'
+data9 = '09.csv'
+data10 = '10.csv'
+data11 = '11.csv'
+data12 = '12.csv'
 
-data_files = [data1,data2,data3]
+data_files = [data1,data2,data3,data4,data5,data6,data7,data8,data9,data10,data11,data12]
 
-df = pd.read_csv(data_path + data_files[0], dtype = datatype_dict, parse_dates = parse_dates, nrows = 1000000) #
+df = pd.read_csv(data_path + data_files[0], dtype = datatype_dict, parse_dates = parse_dates)#, nrows = 1000000) #
 
 
 for file in data_files[1:]:
-    df = pd.concat([df, pd.read_csv(data_path + file, dtype = datatype_dict, parse_dates = parse_dates, nrows = 1000000)]) #
+    df = pd.concat([df, pd.read_csv(data_path + file, dtype = datatype_dict, parse_dates = parse_dates)])#, nrows = 1000000)]) #
 
 
 #--------------------------------------------------------------------------------
