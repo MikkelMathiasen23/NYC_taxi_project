@@ -16,7 +16,7 @@
 
 
 ## *"Should I drive fast to earn more tips?"*
-<iframe src="images/tip_vs_speed.html" 
+<iframe data-src="images/tip_vs_speed.html" 
         sandbox="allow-same-origin allow-scripts" 
         width="1500" 
         height="800" 
