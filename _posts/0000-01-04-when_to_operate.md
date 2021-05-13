@@ -38,7 +38,7 @@
           seamless="seamless"
           frameborder="0"></iframe>
 
-You should work Mondays if you want to get the highest total earnings pr. mile and definitely not on Tuesdays as this would result in the lowest earnings. If we look at the tip amount only, this again indicates that Mondays and Fridays are the best days to work if you want recieve the best tip amount pr. mile you drive. Our advice would be to avoid working Tuesdays and Sundays if you want to recieve the highest earnings pr. mile. But, it might be that earnings pr. mile is not the best measure, what if you are just waiting in line, lets dig into the highest earnings pr. trip duration!
+<sub>You should work Mondays if you want to get the highest total earnings pr. mile and definitely not on Tuesdays as this would result in the lowest earnings. If we look at the tip amount only, this again indicates that Mondays and Fridays are the best days to work if you want recieve the best tip amount pr. mile you drive. Our advice would be to avoid working Tuesdays and Sundays if you want to recieve the highest earnings pr. mile. But, it might be that earnings pr. mile is not the best measure, what if you are just waiting in line, lets dig into the highest earnings pr. trip duration!</sub>
 
 
 --
@@ -55,7 +55,7 @@ You should work Mondays if you want to get the highest total earnings pr. mile a
           seamless="seamless"
           frameborder="0"></iframe>
 
-Luckily, we digged into the earning pr. trip duration because this indicates that Mondays and Sundays are the best days to work if you want achieve the highest earnings pr. trip duration!  And again Tuesday is not the best day to work! So, it might indicate that Monday are clearly a good day to work and Tuesday is not a very good day. When only looking at tip amount Sunday is the winner, so afterall maybe Sunday is also a good day to work if you don't want to keep the day off! 
+<sub>Luckily, we digged into the earning pr. trip duration because this indicates that Mondays and Sundays are the best days to work if you want achieve the highest earnings pr. trip duration!  And again Tuesday is not the best day to work! So, it might indicate that Monday are clearly a good day to work and Tuesday is not a very good day. When only looking at tip amount Sunday is the winner, so afterall maybe Sunday is also a good day to work if you don't want to keep the day off! </sub>
 
 
 --
@@ -97,7 +97,7 @@ Luckily, we digged into the earning pr. trip duration because this indicates tha
 
 ## Partial conclusion
 
-That was a lot of information on *when to operate* - lets sum up. 
+<sub>That was a lot of information on *when to operate* - lets sum up. </sub>
 
 
 
