@@ -86,10 +86,7 @@
 <sub>When comparing the two figures, it is apparent that the early trips at 4-5 AM are long trips resulting in large fareamounts. This could be due to people leaving early for the airport or need to travel far for work. If you want to have small trips not leading you out of the city center then you should probably not operate the early mornings.</sub>
 
 
-
-
--- 
-
+--
 
 
 ## Partial conclusion
