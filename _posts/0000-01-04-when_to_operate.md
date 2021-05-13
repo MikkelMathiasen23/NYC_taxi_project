@@ -1,7 +1,7 @@
 # When to operate 
 
 ## *"What time of the day results in most customers?"*
-<iframe src="images/pickups_dropoffs_houroftheweek.html"
+<iframe data-src="images/pickups_dropoffs_houroftheweek.html"
           sandbox="allow-same-origin allow-scripts"
           width="1450"
           height="500"
@@ -10,7 +10,7 @@
           frameborder="0"></iframe>
           
           
-<iframe src="images/tip_fraction_houroftheweek.html"
+<iframe data-src="images/tip_fraction_houroftheweek.html"
           sandbox="allow-same-origin allow-scripts"
           width="1450"
           height="500"
@@ -30,7 +30,7 @@
 
 ## *"When should I work to achieve the highest earnings pr. mile?"*
 
-<iframe src="images/price_pr_mile.html"
+<iframe data-src="images/price_pr_mile.html"
           sandbox="allow-same-origin allow-scripts"
           width="1500"
           height="500"
@@ -47,7 +47,7 @@
 ## *"When should I operate to achieve the highest fareamount pr. trip duration?"*
 
 
-<iframe src="images/price_pr_hour.html"
+<iframe data-src="images/price_pr_hour.html"
           sandbox="allow-same-origin allow-scripts"
           width="1450"
           height="800"
@@ -64,7 +64,7 @@
 
 ## *"I prefer short trips instead of the long trips. When should I operate?"*
 
-<iframe src="images/daily_mean_trip_distance.html"
+<iframe data-src="images/daily_mean_trip_distance.html"
           sandbox="allow-same-origin allow-scripts"
           width="1450"
           height="800"
@@ -73,7 +73,7 @@
           frameborder="0"></iframe>
           
 
-<iframe src="images/daily_mean_fare_amount.html"
+<iframe data-src="images/daily_mean_fare_amount.html"
           sandbox="allow-same-origin allow-scripts"
           width="1450"
           height="800"
