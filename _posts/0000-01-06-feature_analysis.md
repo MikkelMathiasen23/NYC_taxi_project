@@ -30,7 +30,7 @@
 
 --
 
-##Partial conclusion
+## Partial conclusion
 
 <sub> To sum up the important factors for determining whether you get a tip: <u> longer trips both duration and distance</u> are good, but also <u> large fare amounts </u> appears to have a positive effect on the tip amount. Lastly, <u> dont speed to much </u> as this appear to have a negative effect on tipping.</sub>
 
