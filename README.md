@@ -11,8 +11,6 @@ Which customers
 
 GeoMaps with sliders 
 
-Feature importance 
-
 Conclusion
 
 
