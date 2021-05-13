@@ -17,4 +17,4 @@
 
 
 ## Partial conclusion
-Not very much to sum up on here. Just pickup single persons or multiple person as you like as they give the same amount of tip. 
+<sub>Not very much to sum up on here. Just pickup single persons or multiple person as you like as they give the same amount of tip. </sub>
