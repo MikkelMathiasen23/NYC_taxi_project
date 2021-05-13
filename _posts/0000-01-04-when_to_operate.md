@@ -45,9 +45,13 @@
 ## *"When should I operate to achieve the highest fareamount pr. trip duration?"*
 
 
-
-THIS SHOULD BE FAREAMOUNT/TRIPDISTANCE !
-
+<iframe src="images/price_per_hour.html"
+          sandbox="allow-same-origin allow-scripts"
+          width="1450"
+          height="800"
+          scrolling="no"
+          seamless="seamless"
+          frameborder="0"></iframe>
 
 
 --
