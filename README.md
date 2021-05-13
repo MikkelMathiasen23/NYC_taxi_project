@@ -23,4 +23,4 @@ Conclusion
 	Større figurer + større font-size 
 	Ekstra forklaring på figur 2.1
 
-Evt. Tips pr. distance over tid  + tips pr. årstid + tips ifht vejr 
+Evt. Tips pr. årstid + tips ifht vejr 
