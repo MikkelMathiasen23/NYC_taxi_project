@@ -7,8 +7,6 @@ Explainer notebook
 
 GeoMaps slide "Where" --> rigtige layout  
 
-Which customers 
-
 GeoMaps with sliders 
 
 Conclusion
