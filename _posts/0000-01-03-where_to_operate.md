@@ -2,7 +2,7 @@
 
  
  ## *"Where should I go to be guaranteed customers within a short timeframe?"*
-  <iframe src="images/frontpage_plot.html"
+  <iframe data-src="images/frontpage_plot.html"
           sandbox="allow-same-origin allow-scripts"
           width="800"
           height="800"
@@ -21,7 +21,7 @@
 
 ## *"Which boroughs in New York City gives the best tips?"*
 
-<iframe src="images/tip_perc_borough.html"
+<iframe data-src="images/tip_perc_borough.html"
           sandbox="allow-same-origin allow-scripts"
           width="2500"
           height="800"
