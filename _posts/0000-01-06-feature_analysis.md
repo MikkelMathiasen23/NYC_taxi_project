@@ -25,7 +25,7 @@
         frameborder="0">
         </iframe>
 
-You should not just by default drive fast, because it appears has trip speed has a negative effect on the tip amount and this is case especially for Staten Island, Bronx and Brooklyn. Generally, it is apparently not possible to drive very fast at Manhattan so we can't draw any conclusion on that. For driving at Queens it does not appear to have a very big impact on the tip amount if you drive fast, but still it is not recommendable as it have a slightly bad effect. 
+<sub>You should not just by default drive fast, because it appears has trip speed has a negative effect on the tip amount and this is case especially for Staten Island, Bronx and Brooklyn. Generally, it is apparently not possible to drive very fast at Manhattan so we can't draw any conclusion on that. For driving at Queens it does not appear to have a very big impact on the tip amount if you drive fast, but still it is not recommendable as it have a slightly bad effect. </sub>
 
 
 --
