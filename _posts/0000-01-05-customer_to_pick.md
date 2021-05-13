@@ -2,7 +2,7 @@
 
 ## *"Is it better to pickup groups or single persons?"*
 
-<iframe src="images/price_pr_passengers.html" 
+<iframe data-src="images/price_pr_passengers.html" 
         sandbox="allow-same-origin allow-scripts" 
         width="1500" 
         height="800" 
