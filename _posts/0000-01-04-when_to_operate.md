@@ -25,10 +25,24 @@
 <sub>Well, it looks like a tradeoff between number of customers and tip amount are needed. If we are going for the next best tip amount then this indicates that operating between 10PM-3AM Monday through Friday this results in good tip amounts and lots of customers. Should the weekend also be included in the workweek? Well, then it is recommended to work between 12PM-6AM.</sub>
 
 
+
+--
+
+## *"When should I work to achieve the highest earnings pr. mile?"*
+
+<iframe src="images/price_pr_mile.html"
+          sandbox="allow-same-origin allow-scripts"
+          width="1500"
+          height="500"
+          scrolling="no"
+          seamless="seamless"
+          frameborder="0"></iframe>
+
+
 --
 
 
-## *"When should you operate to achieve the highest fareamount pr. trip duration?"*
+## *"When should I operate to achieve the highest fareamount pr. trip duration?"*
 
 
 
@@ -40,7 +54,7 @@ THIS SHOULD BE FAREAMOUNT/TRIPDISTANCE !
 
 
 
-## *"Do you prefer short trips?"*
+## *"I prefer short trips instead of the long trips. When should I operate?"*
 
 <iframe src="images/daily_mean_trip_distance.html"
           sandbox="allow-same-origin allow-scripts"
