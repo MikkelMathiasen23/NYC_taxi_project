@@ -38,6 +38,8 @@
           seamless="seamless"
           frameborder="0"></iframe>
 
+You should work Mondays if you want to get the highest total earnings pr. mile and definitely not on Tuesdays as this would result in the lowest earnings. If we look at the tip amount only, this again indicates that Mondays and Fridays are the best days to work if you want recieve the best tip amount pr. mile you drive. Our advice would be to avoid working Tuesdays and Sundays if you want to recieve the highest earnings pr. mile. But, it might be that earnings pr. mile is not the best measure, what if you are just waiting in line, lets dig into the highest earnings pr. trip duration!
+
 
 --
 
@@ -45,13 +47,14 @@
 ## *"When should I operate to achieve the highest fareamount pr. trip duration?"*
 
 
-<iframe src="images/price_per_hour.html"
+<iframe src="images/price_pr_hour.html"
           sandbox="allow-same-origin allow-scripts"
           width="1450"
           height="800"
           scrolling="no"
           seamless="seamless"
           frameborder="0"></iframe>
+
 
 
 --
