@@ -4,8 +4,8 @@
  ## *"Where should I go to be guaranteed customers within a short timeframe?"*
   <iframe data-src="images/frontpage_plot.html"
           sandbox="allow-same-origin allow-scripts"
-          width="800"
-          height="800"
+          width="900"
+          height="900"
           scrolling="no"
           seamless="seamless"
           frameborder="0"></iframe>
