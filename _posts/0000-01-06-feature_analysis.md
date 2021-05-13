@@ -32,3 +32,7 @@ You should not just by default drive fast, because it appears has trip speed has
 
 ##Partial conclusion
 
+<sub> To sum up the important factors for determining whether you get a tip: <u> longer trips both duration and distance</u> are good, but also <u> large fare amounts </u> appears to have a positive effect on the tip amount. Lastly, <u> dont speed to much </u> as this appear to have a negative effect on tipping.</sub>
+
+<sub>So now got the *where*, *when* and *who* figured out. The next stuff we will look into is: are there any pattern in the *when* and *where* when you mix it? Do you need to be a certain place at a certain time to catch the right passengers - we will look into this on the next slide. </sub>
+
