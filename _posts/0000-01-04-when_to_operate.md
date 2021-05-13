@@ -92,9 +92,9 @@
 ## Partial conclusion
 
 <sub>That was a lot of information on *when to operate* - lets sum up. </sub>
-<sub>We did find out that when taking the number of available customers and when they tip most into account then the best hours to operate was 10AM - 3PM Monday through Friday. </sub>
-<sub>Further, when taking the amount pr. mile and amount pr. hour into account this clearly indicated that Monday and Sunday was good days to operate and Tuesdays was not recommendable. </sub>
-<sub>Finally, if you did prefer long trips it was recommended to operate early mornings between 4-5AM, and otherwise from 9AM - 1AM. </sub>
+<sub>We did find out that when taking the <u>number of available customers</u> and <u>when they tip most</u> into account then the best hours to operate was <u>10AM - 3PM Monday through Friday</u>. </sub>
+<sub>Further, when taking the <u> amount pr. mile and amount pr. hour</u> into account this clearly indicated that <u>Monday and Sunday</u> was good days to operate and Tuesdays was not recommendable. </sub>
+<sub>Finally, if you did <u>prefer long trips</u> it was recommended to operate early mornings between <u>4-5AM</u>, and otherwise from 9AM - 1AM. </sub>
 
 <sub>Having investigated *Where* and *When* to operate we should find out *Who* should we pickup. Clearly, some types of people tend to give better tips than others. Lets dig into that on the next slide.</sub>
 
