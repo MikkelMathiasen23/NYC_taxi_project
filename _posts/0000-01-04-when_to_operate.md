@@ -85,9 +85,6 @@
 
 <sub>When comparing the two figures, it is apparent that the early trips at 4-5 AM are long trips resulting in large fareamounts. This could be due to people leaving early for the airport or need to travel far for work. If you want to have small trips not leading you out of the city center then you should probably not operate the early mornings.</sub>
 
-<sub>Having investigated *Where* and *When* to operate we should find out *Who* should we pickup. Clearly, some types of people tend to give better tips than others. Lets dig into that on the next slide.</sub>
-
-
 
 
 
@@ -98,9 +95,10 @@
 ## Partial conclusion
 
 <sub>That was a lot of information on *when to operate* - lets sum up. </sub>
-We did find out that when taking the number of available customers and when they tip most into account then the best hours to operate was 10AM - 3PM Monday through Friday. 
-Further, when taking the amount pr. mile and amount pr. hour into account this clearly indicated that Monday and Sunday was good days to operate and Tuesdays was not recommendable. 
-Finally, if you did prefer long trips it was recommended to operate early mornings between 4-5AM, and otherwise from 9AM - 1AM. 
+<sub>We did find out that when taking the number of available customers and when they tip most into account then the best hours to operate was 10AM - 3PM Monday through Friday. </sub>
+<sub>Further, when taking the amount pr. mile and amount pr. hour into account this clearly indicated that Monday and Sunday was good days to operate and Tuesdays was not recommendable. </sub>
+<sub>Finally, if you did prefer long trips it was recommended to operate early mornings between 4-5AM, and otherwise from 9AM - 1AM. </sub>
 
+<sub>Having investigated *Where* and *When* to operate we should find out *Who* should we pickup. Clearly, some types of people tend to give better tips than others. Lets dig into that on the next slide.</sub>
 
 
