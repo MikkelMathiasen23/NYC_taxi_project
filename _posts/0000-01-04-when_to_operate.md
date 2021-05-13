@@ -55,6 +55,7 @@ You should work Mondays if you want to get the highest total earnings pr. mile a
           seamless="seamless"
           frameborder="0"></iframe>
 
+Luckily, we digged into the earning pr. trip duration because this indicates that Mondays and Sundays are the best days to work if you want achieve the highest earnings pr. trip duration!  And again Tuesday is not the best day to work! So, it might indicate that Monday are clearly a good day to work and Tuesday is not a very good day. When only looking at tip amount Sunday is the winner, so afterall maybe Sunday is also a good day to work if you don't want to keep the day off! 
 
 
 --
@@ -95,5 +96,9 @@ You should work Mondays if you want to get the highest total earnings pr. mile a
 
 
 ## Partial conclusion
+
+That was a lot of information on *when to operate* - lets sum up. 
+
+
 
 
