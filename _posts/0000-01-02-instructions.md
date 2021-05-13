@@ -5,7 +5,7 @@
 
 <sub>The goal of this website is to convey information about *how to achieve higher earnings as a taxi driver in New York City* with especially focus on how to optimize the tipping amount. The information is delivered through a fictive conversion with a NYC taxi driver. </sub>
 
-<sub>The data used for analysis and visualizations are from the [Taxi & Limousine Comission](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) in New York City.</sub>
+<sub>The data used for analysis and visualizations are from the [Taxi & Limousine Comission](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) in New York City from 2020. As we all know this year was not as every other year, and this should be kept in mind!</sub>
 
 <sub>This website is structured as a slide show which you can navigate through using mouse wheelscroller, keyboard arrows or arrows in the bottom right corner (but you probably already know that as you are on the second page!). </sub>
 
