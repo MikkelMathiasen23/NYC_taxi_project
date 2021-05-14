@@ -29,7 +29,7 @@
           seamless="seamless"
           frameborder="0"></iframe>
 
-<sub>You should definitely not pickup people in Bronx or Staten Island as people there gives the lowest amount of tip, but instead you should go for Manhattan, Brooklyn or Queens as people there tend to give the best tips!</sub>
+<sub>This figure shows the tipping behaviour of the different boroughs of NYC. You should definitely not pickup people in Bronx or Staten Island as people there gives the lowest amount of tip, but instead you should go for Manhattan, Brooklyn or Queens as people there tend to give the best tips!</sub>
 
 <sub>Now it should be apparent that the best places to look for customers are Queens or Manhattan as this would result in a combination of many customers but also customers that are likely to give good tips.</sub>
 
@@ -39,6 +39,6 @@
 
 ## Partial conclusion
 
-Just to sum quickly up on *where* you should go to be ensured good customers. Manhattan is clearly the place with the most customers, and people tend to give good tips here, but Queens is also a good choice with a lot of taxi customers, which also tends to give good tips. The place you shouldn't go is Bronx and Staten Island as they give bad tips. 
+Just to quickly sum up on *where* you should go to be ensured good customers. Manhattan is clearly the place with the most customers, and people tend to give good tips here, but Queens is also a good choice with a lot of taxi customers, which also tends to tip well. The places to avoid would be Bronx and Staten Island as they tend to tip lower amounts. 
 
-<sub>Now we have clarified *where* to go, but when should you go? Are there a specific timeframe that all the good customers are grapping a taxi? Go to the next slide and we will dig into *when*. </sub>
+<sub>Now we have clarified *where* to go, but at what time should you go? Is there a specific timeframe that all the good customers are grabbing a taxi? Go to the next slide and we will dig into *when*. </sub>
