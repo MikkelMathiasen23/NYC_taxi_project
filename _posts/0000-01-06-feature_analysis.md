@@ -25,7 +25,7 @@
         frameborder="0">
         </iframe>
 
-<sub>You should not just by default drive fast, because it appears that trip speed has a negative effect on the tip amount and this is case especially for Staten Island, Bronx and Brooklyn. Generally, it is apparently not possible to drive very fast at Manhattan so we can't draw any conclusion on that. For driving at Queens it does not appear to have a very big impact on the tip amount if you drive fast, but still it is not recommendable as it have a slightly bad effect. </sub>
+<sub>You should not just by default drive fast, because it appears that trip speed has a negative effect on the tip amount and this is case especially for Staten Island, Bronx and Brooklyn. Here, the relative tip amount is the tip fraction of the fare amount. Generally, it is apparently not possible to drive very fast at Manhattan so we can't draw any conclusion on that. For driving in Queens it does not appear to have a very big impact on the tip amount if you drive fast, but still it is not recommendable as it has a slightly bad effect. </sub>
 
 
 --
@@ -34,5 +34,5 @@
 
 <sub> To sum up the important factors for determining whether you get a tip: <u> longer trips both duration and distance</u> are good, but also <u> large fare amounts </u> appears to have a positive effect on the tip amount. Lastly, <u> dont speed to much </u> as this appear to have a negative effect on tipping.</sub>
 
-<sub>So now got the *where*, *when* and *who* figured out. The next stuff we will look into is: are there any pattern in the *when* and *where* when you mix it? Do you need to be a certain place at a certain time to catch the right passengers - we will look into this on the next slide. </sub>
+<sub>So now we got the *where*, *when* and *who* figured out. The next stuff we will look into is: are there any pattern in the *when* and *where* when you mix it? Do you need to be at a certain place at a certain time to catch the right passengers - we will look into this on the next slide. </sub>
 
